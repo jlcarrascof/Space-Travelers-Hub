@@ -8,8 +8,8 @@ function App() {
         <NavBar />
         <Routes>
           <Route path="/" element={<h1>Home</h1>} />
-          <Route path="/" element={<h1>Rockets</h1>} />
-          <Route path="/" element={<h1>Missions</h1>} />
+          <Route path="/rockets" element={<h1>Rockets</h1>} />
+          <Route path="/missions" element={<h1>Missions</h1>} />
         </Routes>
       </BrowserRouter>
     </div>
