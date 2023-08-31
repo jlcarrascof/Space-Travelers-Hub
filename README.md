@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h1><b>Math Magicians</b></h1>
+  <h1><b>React & Redux group project - Space Travelers' Hub</b></h1>
 
   <br/>
 </div>
@@ -34,7 +34,23 @@
 <!-- DESCRIPTION -->
 ## 📖 About the Project <a name="#about-project"></a>
 
-"Math Magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and read random math-related quotes.
+In this task, you will be working with the real live data from the SpaceX API. Your task is to build a web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.
+
+Learning Objectives:
+   
+    Use React documentation
+    Use React components
+    Use React props
+    Use React Router
+    Connect React and Redux
+    Handle events in a React app
+    Write unit tests with React Testing Library
+    Use styles in a React app
+    Use React hooks
+    Apply React best practices and language style guides in code
+    Use store, actions and reducers in React
+    Perform a code review for a team member
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -50,6 +66,12 @@
 </details>
 
 <details>
+  <summary>React</summary>
+  <ul>
+    <li><a href="#">Redux</a></li>
+  </ul>
+</details>
+<details>
   <summary>Javascript</summary>
   <ul>
     <li><a href="#">Javascript</a></li>
@@ -63,18 +85,27 @@
   </ul>
 </details>
 
+<details>
+<summary>CSS</summary>
+  <ul>
+    <li><a href="#">CSS</a></li>
+  </ul>
+</details>
+
 <!-- FEATURES -->
 
 ### ⭐️ Key Features <a name="key-features"></a>
 
-- Calculator: Perform basic mathematical operations such as addition, subtraction, multiplication, and division.
-- Random Quote: Read and enjoy random math-related quotes to spark inspiration and curiosity.
+You will need to build a website with two subpages:
+
+    /rockets
+    /missions
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://www.willbedeploywhenigottheapproved.com)
+- [coming soon]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,8 +121,8 @@ Ensure that you have Node.js installed on your machine.
 Clone the repository to your local machine and navigate to the project directory.
 
 ```shell
-git clone https://github.com/your-username/math-magicians.git
-cd math-magicians
+git clone https://github.com/your-username/Space-Travelers-Hub.git
+cd Space-Travelers-Hub
 ```
 
 ### Install
@@ -123,8 +154,13 @@ npm run build
 ### 👤 **Javier Jesús Martinez Fariñas**  
 
   - GitHub: [@jlcarrascof](https://github.com/jlcarrascof)
-
   - Twitter: [@javiersistemas](https://twitter.com/javiersistemas)
+
+
+### 👤 **Mohamed-Gamaleldin**
+
+- GitHub: [@githubhandle](https://github.com/mohamedgamaleldin999999)
+- Twitter: [@twitterhandle](https://twitter.com/Mohamme43086002)
 
   _Feel free to reach out to us if you have any questions or collaboration opportunities!_
 
