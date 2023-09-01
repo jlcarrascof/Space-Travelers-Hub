@@ -1,6 +1,7 @@
 body {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -8,59 +9,73 @@ body {
   padding: 25px;
   border-bottom: 1px solid black;
 }
+
 .logo {
   width: 80px;
 }
+
 .nav-menu {
   display: flex;
   gap: 15px;
 }
+
 .nav-a,
 .nav-a::after {
   color: #007BFF;
   text-decoration: none;
 }
+
 .active {
   font-weight: bold;
   text-decoration: underline;
 }
+
 .nav-menu li {
   list-style: none;
   padding: 5px;
 }
+
 .line {
   border-left: 2px solid black;
   margin-right: 20px;
 }
+
 .mission-name,
 .mission-status,
 .mission-action {
   width: 16%;
   text-align: center;
 }
+
 .mission-name {
   font-weight: bold;
 }
+
 .mission-status {
   font-size: small;
 }
+
 .mission-description {
   padding: 10px;
 }
+
 th {
   padding: 5px;
 }
+
 .joinBtn {
   border: 1px solid black;
   border-radius: 4px;
   background-color: inherit;
   padding: 5px;
 }
+
 .table {
   margin: 20px;
   background: rgb(226, 226, 226);
   border-radius: 3px;
 }
+
 .leaveBtn {
   border: 1px solid red;
   border-radius: 4px;
@@ -68,12 +83,15 @@ th {
   background-color: inherit;
   padding: 5px;
 }
+
 .gray-row {
   background-color: #F0F0F0;
 }
+
 .white-row {
   background-color: white;
 }
+
 .not-member {
   background-color: gray;
   color: white;
@@ -81,6 +99,7 @@ th {
   border-radius: 2px;
   display: inline;
 }
+
 .active-member {
   background-color: #3BB3AF;
   color: white;
@@ -88,15 +107,18 @@ th {
   border-radius: 2px;
   display: inline;
 }
+
 .flex {
   display: flex;
   gap: 15px;
 }
+
 .rocket-item {
   display: flex;
   align-items: center;
   margin-bottom: 20px;
 }
+
 .rocket-image {
   width: 200px;
   height: 150px;
@@ -107,21 +129,26 @@ th {
   justify-content: center;
   align-items: center;
 }
+
 .rocket-details {
   overflow: hidden;
 }
+
 .rocket-details > * {
   margin-bottom: 10px;
 }
+
 .rocket-name {
   font-size: 20px;
   font-weight: bold;
   margin-bottom: 10px;
 }
+
 .rocket-description {
   margin-bottom: 10px;
   max-width: 1000px;
 }
+
 .reserved-label {
   background-color: #3BB3AF;
   color: #fff;
@@ -130,6 +157,7 @@ th {
   margin-right: 10px;
   border-radius: 4px;
 }
+
 .cancel-reservation-btn {
   background-color: #fff;
   color: #C7C2C2;
@@ -138,6 +166,7 @@ th {
   padding: 5px 10px;
   cursor: pointer;
 }
+
 .reserve-rocket-btn {
   background-color: #007BFF;
   color: #fff;
@@ -146,40 +175,49 @@ th {
   cursor: pointer;
   border-radius: 4px;
 }
+
 .rockets-section {
   margin-top: 20px;
 }
+
 .rockets-list {
   list-style: none;
   padding: 0;
 }
+
 .rockets-list li {
   margin-bottom: 2rem;
 }
+
 .loading-message {
   font-size: 18px;
   font-weight: bold;
   text-align: center;
 }
+
 .error-message {
   font-size: 18px;
   font-weight: bold;
   color: red;
   text-align: center;
 }
+
 .my-profile-container {
   display: flex;
   justify-content: space-evenly;
 }
+
 .my-profile-container article {
   width: 45%;
 }
+
 .missions-reserved,
 .rockets-reserved {
   padding: 0;
   width: 100%;
   border: 1px solid gray;
 }
+
 .missions-reserved li,
 .rockets-reserved li {
   padding: 10px;
