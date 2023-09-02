@@ -159,8 +159,8 @@ npm run build
 
 ### 👤 **Mohamed-Gamaleldin**
 
-- GitHub: [@githubhandle](https://github.com/mohamedgamaleldin999999)
-- Twitter: [@twitterhandle](https://twitter.com/Mohamme43086002)
+- GitHub: [@mohamedgamaleldin999999](https://github.com/mohamedgamaleldin999999)
+- Twitter: [@Mohamme43086002](https://twitter.com/Mohamme43086002)
 
   _Feel free to reach out to us if you have any questions or collaboration opportunities!_
 
