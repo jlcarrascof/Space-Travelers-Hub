@@ -105,7 +105,7 @@ You will need to build a website with two subpages:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [[Live Demo]](https://space-travelers-hub-i8ag.onrender.com/my-profile)
+- [[Live Demo]]([https://space-travelers-hub-i8ag.onrender.com/my-profile](https://space-travelers-hub-i8ag.onrender.com))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
